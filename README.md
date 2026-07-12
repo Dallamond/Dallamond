@@ -56,12 +56,6 @@ Base:        Madrid, España
   <img src="https://skillicons.dev/icons?i=linux,bash,docker,git,python,html,css,js,mysql" alt="Stack" />
 </p>
 
-## Actividad
-
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dallamond&theme=tokyo-night&hide_border=true&area=true&custom_title=Actividad%20en%20GitHub" alt="Gráfico de actividad" width="100%"/>
-</p>
-
 ## Stats
 
 <p align="left">
