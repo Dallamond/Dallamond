@@ -6,14 +6,21 @@
 
 </div>
 
+<table>
+<tr>
+<td valign="top">
+
 ```
-________         .__  .__                                
-\______ \ _____  |  | |  | _____    _____   ____   ____  
- |    |  \__  \ |  | |  | \__  \  /     \ /  _ \ /    \ 
- |    `   \/ __ \|  |_|  |__/ __ \|  Y Y  (  <_> )   |  \
-/_______  (____  /____/____(____  /__|_|  /\____/|___|  /
-        \/     \/               \/      \/            \/
+________         .__  .__      
+\______ \ _____  |  | |  | _____ 
+ |    |  \__  \ |  | |  | \__  \ 
+ |    `   \/ __ \|  |_|  |__/ __ \
+/_______  (____  /____/____(____  /
+        \/     \/               \/
 ```
+
+</td>
+<td valign="top">
 
 ```yaml
 $ whoami
@@ -27,6 +34,10 @@ Idea activa: IA local para monitorizar logs
 Base:        Madrid, España
 ------------------------------------------
 ```
+
+</td>
+</tr>
+</table>
 
 ## Enlaces
 
@@ -44,6 +55,14 @@ Base:        Madrid, España
 <p align="left">
   <img src="https://skillicons.dev/icons?i=linux,bash,docker,git,python,html,css,js,mysql" alt="Stack" />
 </p>
+
+## Actividad
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dallamond/Dallamond/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dallamond/Dallamond/output/github-contribution-grid-snake.svg" />
+  <img alt="snake animation de contribuciones" src="https://raw.githubusercontent.com/Dallamond/Dallamond/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ## Stats
 
